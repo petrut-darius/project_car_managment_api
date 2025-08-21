@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  get_done_till: 2025-08-13 18:51:48
+  content: MyText
+  car: one
+
+two:
+  get_done_till: 2025-08-13 18:51:48
+  content: MyText
+  car: two
